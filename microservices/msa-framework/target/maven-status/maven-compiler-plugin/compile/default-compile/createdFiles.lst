@@ -1,0 +1,5 @@
+demo\msa\framework\registry\impl\ServiceRegistryImpl.class
+demo\msa\framework\registry\listener\WebListener.class
+demo\msa\framework\registry\sevice\ServiceRegistry.class
+META-INF\spring-configuration-metadata.json
+demo\msa\framework\registry\config\RegistryConfig.class
